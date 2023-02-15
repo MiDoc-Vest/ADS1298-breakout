@@ -29,16 +29,16 @@ connections. There are also a couple of photos.
     ADS1298-breakout pin - Arduino Due pin (SAM3X8E pin)
     SPI OUT (MISO)       - SPI Header 1 (108)
     SPI IN (MOSI)        - SPI Header 4 (109)
-    SCK                  - SPI Header 3 (11)
+    SCK  (33)            - SPI Header 3 (11)
     GND                  - SPI Header 6
     5V                   - SPI Header 2
-    DRDY                 - D45 (100)
-    CLK                  - A7 (85)
-    CLKSEL               - D49 (96)
-    RESET                - D48 (97)
-    PWDN                 - D47 (98)
-    START                - D46 (99)
-    CS                   - D52 (92)
+    DRDY   (32)          - D45 (100)
+    CLK  (39)            - A7 (85)
+    CLKSEL (38)          - D49 (96)
+    RESET  (40)          - D48 (97)
+    PWDN  (41)           - D47 (98)
+    START (37)           - D46 (99)
+    CS   (36)            - D52 (92)
 
 Testing
 =======
